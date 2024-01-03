@@ -1,16 +1,14 @@
-### Hi there 👋
+### Mohammed Ameen Bin Abodan
 
-<!--
-**Yousif80/Yousif80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 I'm a Mobile Developer 
+- 🏠 I live in Yemen - Seiyun.
+- 🌱 I’m currently learning.
+- 💬 I am good at dealing with flutter
+- 📫 How to reach me: INS:xr_v80
 
-Here are some ideas to get you started:
+<hr/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yousif80&count_private=true&show_icons=true&hide_title=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Yousif80&theme=flat&no-frame=true&margin-w=30" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousif80&hide_title=true&layout=compact" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yousif80&theme=gruvbox_duo&hide_border=true)](https://github.com/Yousif80)
